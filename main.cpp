@@ -2,6 +2,6 @@
 
 int main()
 {
-    print("ビルドできねえのだ！");
+    print("わけわからんのだ！");
     return 0;
 }
