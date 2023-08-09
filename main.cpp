@@ -2,6 +2,6 @@
 
 int main()
 {
-    print("いけた気がする");
+    print("ダメだったわ");
     return 0;
 }
