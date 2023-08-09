@@ -2,6 +2,6 @@
 
 int main()
 {
-    print("これでいいのだ");
+    print("ずんだもんなのだ");
     return 0;
 }
