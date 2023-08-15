@@ -4,6 +4,10 @@ using namespace std;
 
 int main()
 {
-    cout << "main実行" << endl;
+    a();
     return 0;
+}
+
+void a(){
+    cout << "main実行" << endl;
 }
