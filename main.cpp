@@ -1,7 +1,9 @@
-#include""
+#include"iostream"
+
+using namespace std;
 
 int main()
 {
-    print("ダメだったわ");
+    cout << "main実行" << endl;
     return 0;
 }
