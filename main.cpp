@@ -9,5 +9,5 @@ int main()
 }
 
 void a(){
-    cout << "出来たかワカラン" << endl;
+    cout << "出来たかもしれん" << endl;
 }
